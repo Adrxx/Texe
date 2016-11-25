@@ -1,0 +1,16 @@
+{
+  "name": "battletext",
+  "version": "1.0.0",
+  "description": "Text Client for Battleship game",
+  "main": "src/BattleText.js",
+  "dependencies": {
+    "clear": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/BattleText.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrián Rubio",
+  "license": "ISC"
+}
